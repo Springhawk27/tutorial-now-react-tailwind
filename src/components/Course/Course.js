@@ -1,10 +1,12 @@
 import React from 'react';
 
+
+// Course component to shgow course in home and courses menu
 const Course = (props) => {
     const { title, price, category, instructor, level, enrolled, language, img } = props.course;
 
     return (
-        <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
+        <div className="lg:w-1/4 md:w-1/2 p-4 w-full hover:shadow-xl">
             <div className="block relative h-48 rounded overflow-hidden">
                 <img alt="ecommerce" className="object-cover object-center w-full h-full block" src={img} />
             </div>

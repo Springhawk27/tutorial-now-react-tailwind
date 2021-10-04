@@ -2,6 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import img from '../../Images/not-found.png'
 
+
+// Not found component 
 const NotFound = () => {
     return (
         <div >

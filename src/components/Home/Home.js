@@ -3,8 +3,9 @@ import { NavLink } from 'react-router-dom';
 import useCourses from '../../hooks/useCourses';
 import Banner from '../Banner/Banner';
 import Course from '../Course/Course';
-import './Home.css'
 
+
+// Home component
 const Home = () => {
     const [courses] = useCourses([]);
 

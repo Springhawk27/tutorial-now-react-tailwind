@@ -2,6 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import img from '../../Images/banner2.svg'
 
+//  Banner component 
 const Banner = () => {
     return (
         <div>

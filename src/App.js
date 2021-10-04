@@ -8,10 +8,10 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Contact from './components/Contact/Contact';
 
+
 function App() {
   return (
     <div className="App">
-      {/* <h2 className="text-purple-700 font-bold text-3xl">This is a heading</h2> */}
       <Router>
         <Header></Header>
         <Switch>
