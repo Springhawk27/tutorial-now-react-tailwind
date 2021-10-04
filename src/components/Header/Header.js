@@ -38,6 +38,12 @@ const Header = () => {
                                 color: "#7C3AED"
                             }}
                             to="/contact">Contact</NavLink>
+                        <NavLink className="mr-5 hover:text-white"
+                            activeStyle={{
+                                fontWeight: "bold",
+                                color: "#7C3AED"
+                            }}
+                            to="/teach">Teach on TN</NavLink>
                     </nav>
                 </div>
             </header>

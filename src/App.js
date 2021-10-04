@@ -7,6 +7,7 @@ import NotFound from './components/NotFound/NotFound';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Contact from './components/Contact/Contact';
+import Teach from './components/Teach/Teach';
 
 
 function App() {
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path='/contact'>
             <Contact></Contact>
+          </Route>
+          <Route path='/teach'>
+            <Teach></Teach>
           </Route>
           <Route path='*'>
             <NotFound></NotFound>

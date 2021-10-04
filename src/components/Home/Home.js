@@ -28,7 +28,6 @@ const Home = () => {
                                 courses.slice(0, 4).map(course => <Course
                                     key={course.id}
                                     course={course}
-                                    home='true'
                                 ></Course>)
 
                             }
