@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import useCourses from '../../hooks/useCourses';
 import Banner from '../Banner/Banner';
-import Services from '../Services/Services';
+import Courses from '../Courses/Courses';
 import './Home.css'
 
 const Home = () => {
@@ -17,10 +17,10 @@ const Home = () => {
                     <div className="container px-5 py-24 mx-auto">
                         <div className="flex flex-wrap -m-4">
                             {
-                                courses.slice(0, 4).map(course => <Services
+                                courses.slice(0, 4).map(course => <Courses
                                     key={course.id}
                                     course={course}
-                                ></Services>)
+                                ></Courses>)
 
                             }
                         </div>

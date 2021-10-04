@@ -8,7 +8,7 @@
         "level": "Beginner",
         "enrolled": 240,
         "language": "English",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/python-beginners.jpeg"
     },
     {
         "id": "a1b2c3d4e2",
@@ -19,7 +19,7 @@
         "level": "Beginner",
         "enrolled": 132,
         "language": "English",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/ds-beginners.jpeg"
     },
     {
         "id": "a1b2c3d4e3",
@@ -30,7 +30,7 @@
         "level": "Beginner",
         "enrolled": 355,
         "language": "English",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/ml.jpeg"
     },
     {
         "id": "a1b2c3d4e4",
@@ -41,7 +41,7 @@
         "level": "Beginner",
         "enrolled": 98,
         "language": "Bangla",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/c-kids.jpeg"
     },
     {
         "id": "a1b2c3d4e5",
@@ -52,7 +52,7 @@
         "level": "Intermediate",
         "enrolled": 321,
         "language": "Bangla",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/python-ds.jpeg"
     },
     {
         "id": "a1b2c3d4e6",
@@ -63,7 +63,7 @@
         "level": "Andvance",
         "enrolled": 240,
         "language": "Bangla",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/fs-python-react.jpeg"
     },
     {
         "id": "a1b2c3d4e7",
@@ -74,7 +74,7 @@
         "level": "Beginner",
         "enrolled": 267,
         "language": "Hindi",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/database.jpeg"
     },
     {
         "id": "a1b2c3d4e8",
@@ -85,7 +85,7 @@
         "level": "Beginner",
         "enrolled": 150,
         "language": "Hindi",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/dv-python.jpeg"
     },
     {
         "id": "a1b2c3d4e9",
@@ -96,7 +96,7 @@
         "level": "Beginner",
         "enrolled": 245,
         "language": "Bangla",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/math-stat-ds.jpeg"
     },
     {
         "id": "a1b2c3d4e10",
@@ -107,6 +107,6 @@
         "level": "Beginner",
         "enrolled": 251,
         "language": "English",
-        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+        "img": "./img/python-teenager.jpeg"
     }
 ]
