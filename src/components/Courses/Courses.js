@@ -1,23 +1,31 @@
 import React from 'react';
+import useCourses from '../../hooks/useCourses';
+import Course from '../Course/Course';
+
 
 const Courses = (props) => {
-    const { title, price, category, instructor, level, enrolled, language, img } = props.course;
+    const [courses] = useCourses([]);
+
 
     return (
-        <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
-            <div className="block relative h-48 rounded overflow-hidden">
-                <img alt="ecommerce" className="object-cover object-center w-full h-full block" src={img} />
-            </div>
-            <div className="mt-4 text-left">
-                <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">{category}</h3>
-                <h2 className="text-gray-900 title-font text-lg font-medium">{title}</h2>
-                <p className="mt-1">${price}</p>
-                <p className="mt-1">Level: {level}</p>
-                <p className="mt-1">Instructor: {instructor}</p>
-                <p className="mt-1">Enrolled: {enrolled}</p>
-                <p className="mt-1">Language: {language}</p>
-            </div>
+
+
+        <div >
+            <section className="text-gray-600 body-font">
+                <div className="container px-5 py-24 mx-auto">
+                    <div className="flex flex-wrap -m-4">
+                        {
+                            courses.map(course => <Course
+                                key={course.id}
+                                course={course}
+                            ></Course>)
+
+                        }
+                    </div>
+                </div>
+            </section>
         </div>
+
     );
 };
 
