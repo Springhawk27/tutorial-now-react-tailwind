@@ -11,8 +11,7 @@ const Banner = () => {
                     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-purple-800">Learn something new today
 
-                            <br className="hidden lg:inline-block" />
-                            From our broad selection of courses
+                            <br className="hidden lg:inline-block" /> From our broad selection of courses
                         </h1>
                         <p className="mb-8 leading-relaxed">We add and update courses regularly to our catalog, so that you can get the latest skills. Choose from 10+ online  courses with full support and guidance.
                             Price starts from only at $4.99</p>
