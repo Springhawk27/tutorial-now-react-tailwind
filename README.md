@@ -9,8 +9,10 @@ Website Link: https://tutorial-now.netlify.app/
 - Javascript
 - React
   - react component
-  - useState
-  - useEffect
+  - react hooks
+    - useState
+    - useEffect
+    - custom hook
   - react router
 - Tailwind CSS
   - tailblocks
